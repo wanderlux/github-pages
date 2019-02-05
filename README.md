@@ -12,4 +12,4 @@ What is the point?
 
 ## Readme file
 
-Writing a website in a RADME.md file. Amazing.
+Writing a website in a README.md file. Amazing.
